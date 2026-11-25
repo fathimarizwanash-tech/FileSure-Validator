@@ -6,7 +6,7 @@ It allows users to paste multiple identifiers, validate their formats, identify 
 
 ## Live Demo
 
-**Live Application:** https://filesure-validator-abc.vercel.app
+**Live Application:** https://filesure-validator.vercel.app/
 
 **GitHub Repository:** https://github.com/fathimarizwanash-tech/FileSure-Validator
 
